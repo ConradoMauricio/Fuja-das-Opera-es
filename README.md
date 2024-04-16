@@ -1,6 +1,8 @@
 # Fuja-das-Opera-es
 Trabalho avaliativo da disciplina de Introdução à Computação
 Tela de Incio do Jogo
+
+link para entrar no jogo: https://fujasdasoperacoes.netlify.app/
 ![Captura de tela 2024-04-16 204045](https://github.com/ConradoMauricio/Fuja-das-Opera-es/assets/164427898/a1fef4b6-4ad2-42f1-8dc8-ace2786eea64)
 Para iniciar o jogo clique com o botão esquerdo do mouse no play da tela.
 Para jogar é necessário o usuário usar sonmente a aeta direita e esquerda do teclado para movimenatr o jogador.
